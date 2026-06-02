@@ -1,0 +1,10 @@
+{
+  "name": "cashwalk-answer-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:answers": "node scripts/update-answers.mjs",
+    "check": "node --check scripts/update-answers.mjs && node --check assets/app.js"
+  }
+}
