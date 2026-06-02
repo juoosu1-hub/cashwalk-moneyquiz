@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://YOUR_GITHUB_USERNAME.github.io/cashwalk-moneyquiz/sitemap.xml
